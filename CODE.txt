@@ -1,3 +1,4 @@
+##SONICSIGHT PROTO##
 #include <Servo.h>  //Load Servo Library
 
 int trigPin=13; //Sensor Trip pin connected to Arduino pin 13
